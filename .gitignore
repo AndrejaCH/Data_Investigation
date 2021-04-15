@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+main.ipynb
+main-Copy1.ipynb
+test.ipynb
+Notes/
+Data_test/
+
 # C extensions
 *.so
 
