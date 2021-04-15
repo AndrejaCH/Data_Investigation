@@ -1,4 +1,4 @@
-# Data_Investigation
+# Data Investigation
 
 The purpuse of this analysis is to onvestigate a dataset. For my project I choose Suicide Data Analysis (Suicide Rates per Country from 1990 to 2016 and GDP, gini-index and cell phone use).
 
