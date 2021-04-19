@@ -1,4 +1,4 @@
-# Data Investigation
+# Data Investigation - Suicide Data Analysis
 
 #### Project Overview
 
