@@ -1,14 +1,14 @@
 # Data Investigation - Suicide Data Analysis
 
-#### Project Overview
+### Project Overview
 
 The purpuse of this analysis is to investigate a dataset. For my project I choose Suicide Data Analysis (Suicide Rates per Country from 1990 to 2016 and GDP, gini-index and cell phone use). ***All requirements for this project are in jupyter notebook in this repository, including introduction section below.***
 
-#### Introduction
+### Introduction
 
 Suicide is a global phenomenon and occurs throughout the lifespan. Close to 800 000 people die due to suicide every year, which is one person every 40 seconds (source: WHO). For this project, I am analyzing global suicide data from 1990 to 2016. In particular I am interested in finding trends amongst countries with the most and the least suicide per 100,000 people and how those countries differ in GDP, Gini-index (inequality index) and cell-phone use.
 
-#### Data used
+### Data used
 
 For my analysis I choose datasets form Gapminder World (https://www.gapminder.org/data/). 
 
@@ -19,7 +19,7 @@ For my analysis I choose datasets form Gapminder World (https://www.gapminder.or
 - Gini Index (gini_df) -> <i>(inequality index)</i>
 
 
-#### Questions for Analysis
+### Questions for Analysis
 <b>1. SUICIDE TREND AND GDP: Is GDP associated with suicide rate per country?</b><br />
         - what is the overall suicide trend globally?<br />
         - what is the overall suicide trend for top 10 countries\*?<br/>
@@ -37,7 +37,7 @@ For my analysis I choose datasets form Gapminder World (https://www.gapminder.or
 
 *In economics, the Gini coefficient, sometimes called the Gini index or Gini ratio, is a measure of statistical dispersion intended to represent the income inequality or wealth inequality within a nation or any other group of people. A Gini coefficient of zero expresses perfect equality, where all values are the same (for example, where everyone has the same income). A Gini coefficient of one (or 100%) expresses maximal inequality among values (e.g., for a large number of people where only one person has all the income or consumption and all others have none, the Gini coefficient will be nearly one) Source: wikipedia*
 
-#### Description for investigation
+### Description for investigation
 In order to investigate those question I did the following:
 - Download the data from Gapminder World.
 - Examine dataset and handle missing values.
