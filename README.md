@@ -2,7 +2,8 @@
 
 ### Project Overview
 
-The purpuse of this analysis is to investigate a dataset. For my project I choose Suicide Data Analysis (Suicide Rates per Country from 1990 to 2016 and GDP, gini-index and cell phone use). ***All requirements for this project are in jupyter notebook in this repository, including introduction section below.***
+The purpuse of this analysis is to investigate a dataset. For my project I choose Suicide Data Analysis (Suicide Rates per Country from 1990 to 2016 and GDP, gini-index and cell phone use). For detailed data investigation please see the [jupiter notebook report](Investigate_a_Dataset_Report_Udacity_Andreja_Ho.ipynb)
+
 
 ### Introduction
 
