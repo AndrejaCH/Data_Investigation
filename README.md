@@ -11,7 +11,7 @@ Suicide is a global phenomenon and occurs throughout the lifespan. Close to 800 
 
 ### Data used
 
-For my analysis I choose datasets form Gapminder World (https://www.gapminder.org/data/). 
+For my analysis I choose datasets form [Gapminder World](https://www.gapminder.org/data/). 
 
 - Population Dataset (pop_df) -> <i>number of people</i>
 - Cell Phone Usage Dataset (cell_df) -> <i>numbers of subscriptions</i>
