@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-The purpuse of this analysis is to investigate a dataset. For my project I choose Suicide Data Analysis (Suicide Rates per Country from 1990 to 2016 and GDP, gini-index and cell phone use). For detailed data investigation please see the [jupiter notebook report](Investigate_a_Dataset_Report_Udacity_Andreja_Ho.ipynb)
+The purpuse of this analysis is to investigate a dataset. For my project I choose Suicide Data Analysis (Suicide Rates per Country from 1990 to 2016 and GDP, gini-index and cell phone use). For detailed data investigation please see the [jupiter notebook report](Investigate_a_Dataset_Report_Udacity_Andreja_Ho.ipynb) where one can follow complete steps of data investigation, accompanied with charts and explanation.
 
 
 ### Introduction
@@ -50,3 +50,15 @@ In order to investigate those question I did the following:
 - Plot histogram for GDP in those two groups.
 - Explore suicide trends in those two groups.
 - Group Gini index into 3 categories in order to see which group has more suicide per capita.
+
+### Conclusions
+In this analysis, I focused on the global suicide trend from 1990 to 2016 and explore the potential association with GDP, Gini-index and cell phone use.
+Regarding cell phone use I cannot draw any meaningful conclusions since the idea is beyond this dataset. I wanted to see if there is any trend or association between cell phone use and suicide. For example: in 1990 the cell phone became more and more popular and it might have an impact on the suicide rate. Next, smartphones became popular around the year 2010 and wanted to see if there is any association. Unfortunately, this dataset is not suitable for this kind of research and more detailed data is needed. For example suicide data per age, smartphone sales, etc.
+
+From the line chart, I learned about the suicide trends, globally, for the top 10 countries with the most suicide per capita and the bottom 10 countries with the least suicide per capita. From the line chats, I can see an overall decreasing trend with a slight increase in 2014. This trend is similar for the top 10 countries. The bottom 10 countries' suicide rate has a positive trend, which is the opposite of the top 10 countries. The mean for the top 10 countries is 33.93 suicide per 100,000 while the mean for the bottom 10 countries is 2.37 per 100,000 people.*
+
+From the summary statistics, we can see that GDP values in the top 10 countries are much more spread out than in the bottom 10 countries. The histogram showed that the top 10 countries have GDP between 5,000 and 30,000 whereas the top and bottom countries have GDP values more spread out ranging from 10,000 to 55,000.
+
+Grouping the Gini index into three categories showed that countries with a lower inequality rate have more suicide than countries with a higher inequality rate.
+
+Limitations This dataset has few limitations. Gini-index null values were filled with the mean of the Gini index for a specific country throughout the years. The original dataset had a lot of missing values and filling null values this way could cause the results to be too general. Another improvement could be done to add more variables to the dataset. For example suicide per age group, gender and smartphone sales in the 2000s.
