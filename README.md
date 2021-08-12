@@ -23,13 +23,13 @@ For my analysis I choose datasets form [Gapminder World](https://www.gapminder.o
 
 
 ### Questions for Analysis
-<b>1. SUICIDE TREND AND GDP: Is GDP associated with suicide rate per country?</b><br />
-        - what is the overall suicide trend globally?<br />
+<b>1. SUICIDE TREND AND GDP: Is GDP associated with suicide rate per country?</b><br/>
+        - what is the overall suicide trend globally?<br/>
         - what is the overall suicide trend for top 10 countries\*?<br/>
         - what is the overall suicide trend for bottom 10 countries\*?<br/>
         - what is GDP (gross domestic product) in top or bottom 10 countries?<br/>
-        - which countries are in top 10?<br />
-        - which countries are in bottom 10?<br />
+        - which countries are in top 10?<br/>
+        - which countries are in bottom 10?<br/>
 
 <b>2. SUICIDE TREND AND GINI INDEX: Is Gini Index associated with suicide rate per country</b><br />
         - is gini index associated with suicide rate?
