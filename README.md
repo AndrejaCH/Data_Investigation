@@ -9,7 +9,7 @@ The purpuse of this analysis is to investigate a dataset. For my project I choos
 
 ### Introduction
 
-Suicide is a global phenomenon and occurs throughout the lifespan. Close to 800 000 people die due to suicide every year, which is one person every 40 seconds (source: WHO). For this project, I am analyzing global suicide data from 1990 to 2016. In particular I am interested in finding trends amongst countries with the most and the least suicide per 100,000 people and how those countries differ in GDP, Gini-index (inequality index) and cell-phone use.
+Suicide is a global phenomenon and occurs throughout the lifespan. Nearly 800,000 people die due to suicide every year, which is one person every 40 seconds (source: WHO). For this project, I am analyzing global suicide data from 1990 to 2016. In particular I am interested in finding trends amongst countries with the most and the least suicide per 100,000 people and how those countries differ in GDP, Gini-index (inequality index) and cell-phone use.
 
 ### Data used
 
